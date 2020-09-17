@@ -1,7 +1,7 @@
 # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # #
-# Adam Lancaster                                                              #
+# Adam Lancaster                                             youtube searcher #
 # 9/17/2020                                                                   #
-#                                                                             #
+# # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # #
 # program will open a google chrome browser window, navigate to youtube and   #
 # then prompt user to enter a term to search for. once use enters topic,      #
 # program will enter user input and initiate a search.                        #
